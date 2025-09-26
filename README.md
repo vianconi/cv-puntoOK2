@@ -1,7 +1,6 @@
 # Emilio Villalba
 Presidente Franco, Alto Paraná — Paraguay  
-Tel: +595 985 622 675 · Email: emiliovianconi@gmail.com  
-LinkedIn: [linkedin.com/in/emiliovillalba](https://linkedin.com/in/emiliovillalba) · GitHub: [github.com/vianconi](https://github.com/vianconi)
+Tel: +595 985 622 675 · Email: emiliovianconi@gmail.com
 
 ## Perfil Profesional
 
