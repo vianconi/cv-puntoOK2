@@ -1,6 +1,7 @@
 # Emilio Villalba
 Presidente Franco, Alto Paraná — Paraguay  
-Tel: +595 985 622 675 · Email: emiliovianconi@gmail.com
+Tel: +595 985 622 675 · Email: emiliovianconi@gmail.com  
+LinkedIn: [linkedin.com/in/emiliovillalba](https://linkedin.com/in/emiliovillalba) · GitHub: [github.com/vianconi](https://github.com/vianconi)
 
 ## Perfil Profesional
 
@@ -61,4 +62,24 @@ Me motiva transformar necesidades complejas de negocio en soluciones prácticas 
 ## Herramientas y Metodologías
 
 - **Gestión de Proyectos:** Metodologías ágiles (Scrum, Kanban), herramientas como Jira para seguimiento de tareas y métricas de desempeño.
-- **<span class="ml-2" /><span class="inline-block w-3 h-3 rounded-full bg-neutral-a12 align-middle mb-[0.1rem]" />
+- **Productividad:** Google Sheets, Excel avanzado, herramientas colaborativas como Slack y plataformas de documentación.
+- **Sistemas Empresariales:** Experiencia práctica con software de gestión empresarial, especialmente Odoo y suite Atlassian.
+- **Técnicas:** Conocimientos de bases de datos relacionales, integración de sistemas mediante interfaces de programación.
+- **Infraestructura:** Comprensión de entornos en la nube, contenedores Docker y sistemas operativos Linux.
+
+## Educación y Certificaciones
+
+- **Ingeniería en Informática** — Universidad Privada del Este (2010)
+- **Diplomado en Ciberseguridad** — Universidad Nacional de Asunción (2023)
+- **Certificación en Metodologías Ágiles** — Scrum Foundation Professional (2023)
+- **Certificación en Computación en la Nube** — Amazon Web Services Cloud Practitioner (2023)
+
+## Idiomas
+- **Español:** Nativo
+- **Portugués:** Nivel avanzado (C1)
+- **Guaraní:** Nivel intermedio-avanzado (B2)
+- **Inglés:** Nivel intermedio (B1)
+
+---
+
+*Interesado en oportunidades que combinen desafíos técnicos con impacto directo en la mejora de procesos organizacionales.*
